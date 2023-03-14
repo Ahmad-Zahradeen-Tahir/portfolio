@@ -41,12 +41,12 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img3} alt="" />
           </div>
-          <h3>Calculator App</h3>
+          <h3>Expense Tracker App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Ahmad-Zahradeen-Tahir/react-calculator" target="_blank" className="btn">
+            <a href="https://github.com/Ahmad-Zahradeen-Tahir/expense-tracker" target="_blank" className="btn">
               Github
             </a>
-            <a href="http://react-calculator-one-mu.vercel.app/" target="_blank" className="btn btn-primary">
+            <a href="https://stellar-malasada-05c3d2.netlify.app/" target="_blank" className="btn btn-primary">
               Live Demo
             </a>
           </div>
