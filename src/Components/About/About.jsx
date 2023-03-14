@@ -30,7 +30,7 @@ const About = () => {
             Hi there, I'm Zahradeen. I'm 18 years old and a self-taught
             programmer who loves to code in JavaScript. I started coding at{' '}
             <a href="www.freecodecamp.org">freecodecamp</a> in February 2022 and attended altschool, school of
-            engineering. I love web development and am looking forward to learn
+            engineering. I love web development and am looking forward to learning
             more about front-end engineering.
           </p>
           <h2>Hobbies</h2>
