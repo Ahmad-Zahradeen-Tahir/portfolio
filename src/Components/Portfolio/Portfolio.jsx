@@ -29,10 +29,10 @@ const Portfolio = () => {
           </div>
           <h3>Food Order App</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Ahmad-Zahradeen-Tahir/food-app" target="_blank" className="btn">
+            <a href="https://github.com/Ahmad-Zahradeen-Tahir/Food-Order-App" target="_blank" className="btn">
               Github
             </a>
-            <a href="https://food-app-rust-seven.vercel.app/" target="_blank" className="btn btn-primary">
+            <a href="https://rad-toffee-fdb731.netlify.app/" target="_blank" className="btn btn-primary">
               Live Demo
             </a>
           </div>
